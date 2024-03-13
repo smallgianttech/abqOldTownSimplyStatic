@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	 xmlns:media="http://search.yahoo.com/mrss/" 
+	>
+<channel>
+	<title>
+	Comments on: 37th Annual Albuquerque Museum Car Show by the New Mexico Council of Car Clubs	</title>
+	<atom:link href="https://www.albuquerqueoldtown.com/event/37th-annual-albuquerque-museum-car-show-by-the-new-mexico-council-of-car-clubs/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.albuquerqueoldtown.com/event/37th-annual-albuquerque-museum-car-show-by-the-new-mexico-council-of-car-clubs/</link>
+	<description>Historic Old Town Albuquerque</description>
+	<lastBuildDate>Sun, 21 May 2023 15:43:06 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+</channel>
+</rss>
